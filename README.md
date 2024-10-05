@@ -2,13 +2,19 @@
 
 🔧 Tech Stack: JavaScript | React | Node.js | TypeScript | MongoDB | Tailwind CSS
 
-## GitHub Stats:
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kass8mal8&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kass8mal8&layout=compact&theme=radical)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kass8mal8&theme=radical)](https://git.io/streak-stats)
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kass8mal8&show_icons=true&theme=radical" alt="GitHub stats" style="width: 49%;" />
+
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kass8mal8&layout=compact&theme=radical" alt="Top Languages" style="width: 49%;" />
+  
+</div>
+
+## GitHub Stats:
 
 ## 🏆 Featured Projects
 
